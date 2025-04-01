@@ -4,9 +4,19 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB06vQWMpgy7Y6s5qRnCSl7sXqKgs2fvRCWw&s" alt="OpenOffice.org Logo">
 </p>
 
+<p align="center">
+    <a href="#welcome">Welcome</a> •
+    <a href="#is-openofficeorg-free">Is OpenOffice.org Free</a> •
+    <a href="#installation-guide-">Installation Guide</a> •
+    <a href="#troubleshooting-and-known-issues">Troubleshooting</a> •
+    <a href="#getting-help--support">Support</a> •
+    <a href="#how-to-contribute">Contribute</a> •
+    <a href="#license--credits">License</a>
+</p>
+
 ---
 
-## Welcome 🎉
+## Welcome 
 
 Thank you for using **OpenOffice.org 2.4**! This document provides essential information to help you install and use the software effectively.
 
@@ -14,7 +24,7 @@ The **OpenOffice.org community** invites you to participate and contribute. Lear
 
 ---
 
-## Is OpenOffice.org Free? 🆓
+## Is OpenOffice.org Free?
 
 Yes! OpenOffice.org is **completely free** for all users, including individuals, businesses, educational institutions, and governments. 
 
@@ -31,7 +41,7 @@ For full license details, visit: [OpenOffice.org License](http://www.openoffice.
 - **Disk Space:** 250 MB (300 MB for CJK version); 500 MB required after installation
 - **Display:** 800x600 resolution with 256+ colors
 
-### **Installation Steps** ✅
+### **Installation Steps** 
 1. **Close all running programs** before starting.
 2. **Ensure sufficient disk space** for installation.
 3. **Run the installer** and follow the on-screen instructions.
@@ -39,7 +49,7 @@ For full license details, visit: [OpenOffice.org License](http://www.openoffice.
 
 ---
 
-## Troubleshooting & Known Issues ⚠️
+## Troubleshooting And Known Issues 
 
 ### **Startup Problems**
 - **Graphics issues?** Update your graphics card drivers or use default OS drivers.
@@ -67,7 +77,7 @@ If OpenOffice crashes when sending documents via email, check for Windows MAPI i
 
 ---
 
-## Getting Help & Support 💡
+## Getting Help & Support 
 
 - **FAQs:** [user-faq.openoffice.org](http://user-faq.openoffice.org/)
 - **Mailing Lists:** [OpenOffice.org Mailing Lists](http://www.openoffice.org/mail_list.html)
@@ -76,7 +86,7 @@ If OpenOffice crashes when sending documents via email, check for Windows MAPI i
 
 ---
 
-## How to Contribute 🤝
+## How to Contribute 
 
 Even if you're not a developer, you can help!
 
@@ -90,7 +100,7 @@ Even if you're not a developer, you can help!
 
 ---
 
-## License & Credits 📜
+## License & Credits 
 
 Portions of this software are:
 - **Copyright 1998-1999 James Clark**
