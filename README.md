@@ -1,11 +1,11 @@
-# OpenOffice.org 2.4 README
+<h1 align="center"> OpenOffice.org 2.4 README </h1>
 
 <p align="center">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB06vQWMpgy7Y6s5qRnCSl7sXqKgs2fvRCWw&s" alt="OpenOffice.org Logo">
 </p>
 
 
-For the latest updates to this README file, visit: [OpenOffice.org Readme](http://www.openoffice.org/welcome/readme.html)
+<p align="center"> For the latest updates to this README file, visit: <a href="http://www.openoffice.org/welcome/readme.html"> OpenOffice.org Readme </a></p>
 
 ---
 
@@ -141,6 +141,8 @@ For full licensing details, see: [OpenOffice.org License](http://www.openoffice.
 
 ---
 
-We hope you enjoy working with OpenOffice.org 2.4!
-
-🚀 **The OpenOffice.org Community** 🚀
+<p align="center">
+    We hope you enjoy working with OpenOffice.org 2.4!
+    <br>
+    <b>🚀 The OpenOffice.org Community 🚀 </b>
+</p>
