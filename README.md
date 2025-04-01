@@ -106,7 +106,7 @@ For help with OpenOffice.org 2.4:
 ## Reporting Bugs & Issues
 
 Help improve OpenOffice.org by reporting bugs! We use **IssueZilla**, our issue-tracking system, to report, track, and resolve bugs. 
-- Report bugs here: [OpenOffice.org IssueZilla](http://www.openoffice.org/issuezilla)
+- Report bugs here: [OpenOffice.org IssueZilla](https://www.openoffice.org/qa/issue_handling/project_issues.html)
 
 ---
 
