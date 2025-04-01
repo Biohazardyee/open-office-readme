@@ -4,9 +4,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB06vQWMpgy7Y6s5qRnCSl7sXqKgs2fvRCWw&s" alt="OpenOffice.org Logo">
 </p>
 
-
-<p align="center"> For the latest updates to this README file, visit: <a href="http://www.openoffice.org/welcome/readme.html"> OpenOffice.org Readme </a></p>
-
 ---
 
 ## Welcome
