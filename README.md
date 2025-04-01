@@ -1,6 +1,8 @@
 # OpenOffice.org 2.4 README
 
+<div align=center>
 ![text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB06vQWMpgy7Y6s5qRnCSl7sXqKgs2fvRCWw&s)
+</div>
 
 For the latest updates to this README file, visit: [OpenOffice.org Readme](http://www.openoffice.org/welcome/readme.html)
 
