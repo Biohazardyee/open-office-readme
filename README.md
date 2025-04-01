@@ -1,5 +1,7 @@
 # OpenOffice.org 2.4 README
 
+![text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB06vQWMpgy7Y6s5qRnCSl7sXqKgs2fvRCWw&s)
+
 For the latest updates to this README file, visit: [OpenOffice.org Readme](http://www.openoffice.org/welcome/readme.html)
 
 ---
@@ -16,7 +18,7 @@ Additionally, you can learn how to contribute to the OpenOffice.org project belo
 
 ## Is OpenOffice.org Free for Everyone?
 
-Yes! OpenOffice.org is completely free for all users, including government, businesses, educational institutions, and individuals. For full license details, visit: [OpenOffice.org License](http://www.openoffice.org/license.html).
+Yes! OpenOffice.org is completely free for all users, including the government, businesses, educational institutions, and individuals. For full license details, visit: [OpenOffice.org License](http://www.openoffice.org/license.html).
 
 ---
 
@@ -42,12 +44,12 @@ Yes! OpenOffice.org is completely free for all users, including government, busi
 ## Troubleshooting Startup Issues
 
 ### Common Problems:
-1. **Program Hangs or Display Issues**: Often caused by outdated graphics card drivers. Try updating the driver or using the default driver provided by your operating system.
-2. **3D Display Issues**: Disable "Use OpenGL" under `Tools → Options → OpenOffice.org → View → 3D View`.
-3. **Installing Alongside Older Versions**:
+- **Program Hangs or Display Issues**: Often caused by outdated graphics card drivers. Try updating the driver or using the default driver provided by your operating system.
+- **3D Display Issues**: Disable "Use OpenGL" under `Tools → Options → OpenOffice.org → View → 3D View`.
+- **Installing Alongside Older Versions**:
    - You can install OpenOffice.org 2.4 alongside older versions.
-   - If you later remove an older version, run the new version’s installer and select 'Repair' to ensure proper system registration.
-4. **Copy-Paste Compatibility**:
+   - If you remove an older version later, run the new version’s installer and select 'Repair' to ensure proper system registration.
+- **Copy-Paste Compatibility**:
    - Copy-pasting between OpenOffice.org 1.x and 2.4 may not work properly.
    - Use `Edit → Paste Special` and select a different format, or open the document directly in OpenOffice.org 2.4.
 
@@ -71,12 +73,12 @@ Due to a Windows driver issue, OpenOffice.org documents may not scroll when usin
 To use **Ai Squared ZoomText** with OpenOffice.org 2.4, you must have version **7.11 or later**. Only versions downloaded after **June 12, 2002**, provide full functionality.
 
 ### Keyboard Shortcuts
-Some keyboard shortcuts may not work as expected due to conflicts with your operating system. If a shortcut does not function as described in the OpenOffice.org help, check if it is reserved by your OS. You can:
+Some keyboard shortcuts may not work as expected due to conflicts with your operating system. If a shortcut does not function as described in the OpenOffice.org help, check if your OS reserves it. You can:
 - Modify system-defined shortcuts
 - Change OpenOffice.org keyboard shortcuts via `Tools → Customize`
 
 ### Emailing Documents from OpenOffice.org
-When using `File → Send → Document as Email` or `Document as PDF Attachment`, OpenOffice.org may crash due to issues with Windows MAPI (Messaging Application Programming Interface). For solutions, visit: [Microsoft Knowledge Base](http://www.microsoft.com) and search for **"mapi dll"**.
+When using `File → Send → Document as Email` or `Document as PDF Attachment`, OpenOffice.org may crash due to issues with Windows MAPI (Messaging Application Programming Interface). For solutions, visit [Microsoft Knowledge Base](http://www.microsoft.com) and search for **"mapi dll"**.
 
 ---
 
@@ -103,7 +105,7 @@ For help with OpenOffice.org 2.4:
 
 ## Reporting Bugs & Issues
 
-Help improve OpenOffice.org by reporting bugs! We use **IssueZilla**, our issue tracking system, to report, track, and resolve bugs. 
+Help improve OpenOffice.org by reporting bugs! We use **IssueZilla**, our issue-tracking system, to report, track, and resolve bugs. 
 - Report bugs here: [OpenOffice.org IssueZilla](http://www.openoffice.org/issuezilla)
 
 ---
